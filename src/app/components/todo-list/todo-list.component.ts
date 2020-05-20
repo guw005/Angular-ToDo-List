@@ -23,13 +23,13 @@ export class TodoListComponent implements OnInit {
     this.todos = [
       {
         'id': 1,
-        'title': 'Finish Angular Screencast',
+        'title': 'World peace',
         'completed': false,
         'editing': false,
       },
       {
         'id': 2,
-        'title': 'Take over world',
+        'title': 'End poverty',
         'completed': false,
         'editing': false,
       },
